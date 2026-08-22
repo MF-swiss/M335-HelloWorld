@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">M335 HelloWorld</string>
+    <string name="texttitle">Willkommen auf meinem App</string>
+    <string name="textundertitle">Dies ist meine Übungsapp</string>
 </resources>
